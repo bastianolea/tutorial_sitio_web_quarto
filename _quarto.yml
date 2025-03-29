@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "tutorial_sitio_web_quarto"
+  title: "Sitio web Quarto: tutorial"
   navbar:
     left:
       - href: index.qmd
@@ -16,7 +16,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
 

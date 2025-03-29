@@ -1,10 +1,10 @@
 ---
-title: "tutorial_sitio_web_quarto"
+title: "Bienvenidx"
 ---
 
-This is a Quarto website.
+Este es un sitio de prueba para enseñar a crear sitios web con Quarto.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+[Entra a este enlace para leer la guía completa.](https://github.com/bastianolea/clase_quarto_madrid)
 
 ```{r}
 1 + 1
