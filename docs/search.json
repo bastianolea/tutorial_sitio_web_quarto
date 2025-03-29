@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "tutorial_sitio_web_quarto",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bienvenidx",
+    "section": "",
+    "text": "Este es un sitio de prueba para enseñar a crear sitios web con Quarto.\nEntra a este enlace para leer la guía completa.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "readme.html",
+    "href": "readme.html",
+    "title": "Sitio web Quarto: tutorial",
+    "section": "",
+    "text": "Este es un repositorio de prueba para enseñar a crear sitios web con Quarto.\nEntra a este enlace para leer la guía completa y aprender a crear sitios web gratis usando R y Quarto."
   }
 ]
